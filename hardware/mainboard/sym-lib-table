@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPA3116D2DADR")(type "KiCad")(uri "C:/Users/Sewer/Desktop/Nowy folder/TPA3116D2DADR.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "C:/Users/Sewer/Desktop/Nowy folder/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX4618CUE+")(type "KiCad")(uri "${KIPRJMOD}/libs/MAX4618CUE+/MAX4618CUE+.kicad_sym")(options "")(descr ""))
+)
